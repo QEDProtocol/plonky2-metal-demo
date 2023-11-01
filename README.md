@@ -24,6 +24,5 @@ proving: cpu took 2147ms
 metal is 57.635829662261386% faster than cpu+rayon
 ```
 
-
-(c) 2023 Zero Knowledge Labs Limited - MIT
+(c) 2023 Zero Knowledge Labs Limited - MIT - ∀
 
